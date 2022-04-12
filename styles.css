@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.spinner{
+    display: flex;
+    height: 100vh;
+}
+
+.spinner-text{
+    font-size: 16px;
+    font-family: monospace;
+    text-transform: uppercase;
+    margin: auto;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    border: 4px;
+    border-color: black;
+    margin-bottom: 8px;
+}
